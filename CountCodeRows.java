@@ -107,7 +107,7 @@ public class CountCodeRows {
     }
 
     public static void main(String args[]) {
-        CodeRowCount lc = new CodeRowCount();
+        CountCodeRows lc = new CountCodeRows();
         String projectName = "projectName";     //这里传入你的项目名称
         lc.counter(projectName);
     }
